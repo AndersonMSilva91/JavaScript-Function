@@ -1,1 +1,1 @@
-# JavaScript-Function
+# JavaScript-Function-Explicação
